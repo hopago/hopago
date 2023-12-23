@@ -1,2 +1,4 @@
+React 개발자입니다
 
-ㅎㅇ ㅋㅋ
+집중 공부 중
+Next@14, Typescript, Prisma, Nest.js
